@@ -1,2 +1,7 @@
-# Finding-eigenvalues-and-eigenvectors
-Project for finding eigenvalues and eigenvectors using three methods: Danilevsky, Krylov and Le Verrier-Fadeev
+# Нахождение собственных векторов и собственных значений 
+Учебная работа в котором реализуются методы для нахождение собственных значений и собственных векторов матриц.  
+В реализации предствлены методы:
+  -Метод Данилевского 
+  -Метод Крылова 
+  -Метод Леверрье-Фаддеева.
+Работа была реализована на языке Python.
